@@ -4,5 +4,4 @@ class Review < ApplicationRecord
 
   belongs_to :restaurant
   # resources: Review
-  Review :resources
 end
